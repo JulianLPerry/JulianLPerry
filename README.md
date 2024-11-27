@@ -1,4 +1,4 @@
-Placing here as a publicly accessible version of my slides and written tutorial on the theory and implementation of multilevel-regression with poststratification (MRP). Originally written for STAT 160 at Harvard.
+Placing here as a publicly accessible version of my written tutorial (and slides) on multilevel regression with poststratification (MRP), starting from theory and then demonstrating via example. Originally written for Harvard's STAT 160. 
 
 <!--
 **JulianLPerry/JulianLPerry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
